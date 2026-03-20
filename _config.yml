@@ -1,0 +1,14 @@
+title: My Website
+description: A personal website built with GitHub Pages and Jekyll
+theme: minima
+
+url: "https://YOUR-USERNAME.github.io"
+baseurl: "/YOUR-REPO-NAME"
+
+markdown: kramdown
+
+header_pages:
+  - index.md
+
+plugins:
+  - jekyll-feed
