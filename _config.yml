@@ -2,8 +2,8 @@ title: My Website
 description: A personal website built with GitHub Pages and Jekyll
 theme: minima
 
-url: "https://YOUR-USERNAME.github.io"
-baseurl: "/YOUR-REPO-NAME"
+url: "https://matthew-w-self.github.io"
+baseurl: "/self-lab"
 
 markdown: kramdown
 
