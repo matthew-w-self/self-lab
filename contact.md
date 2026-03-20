@@ -6,5 +6,5 @@ permalink: /contact/
 
 # Contact
 
-- Email: your.email@example.com
-- GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- Email: matthew.self@glasgow.ac.uk
+- GitHub: matthew-w-self(https://github.com/matthew-w-self)
