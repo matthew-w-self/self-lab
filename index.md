@@ -5,10 +5,10 @@ title: Home
 
 <div class="hero">
   <div class="hero-text">
-    <h1>Hello, I'm Matthew</h1>
-    <p class="hero-tagline">
-      Neuroscience researcher interested in visual processing, perception, memory, and behaviour.
-    </p>
+  <h1>Matthew Self</h1>
+<p class="hero-tagline">
+  Neuroscientist studying visual processing, top-down feedback, and neural mechanisms of perception and memory.
+</p>
     <p>
       Welcome to my website. Here you can find information about my research, current projects, publications, and ways to get in touch.
     </p>
