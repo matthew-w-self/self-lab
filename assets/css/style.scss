@@ -31,45 +31,49 @@ body {
 
 /* Hero section */
 .hero {
+  position: relative;   /* allows overlap positioning */
   display: grid;
-  grid-template-columns: 2.0fr 0.8fr;
-  gap: 2.5rem;
-  align-items: center;
-  margin: 2.5rem 0 3rem 0;
-  padding: 2.2rem;
+  grid-template-columns: 1fr;
+  padding: 2.5rem 2rem;
+  margin: 3rem 0;
   background: white;
   border-radius: 22px;
-  box-shadow: 0 10px 30px rgba(30, 60, 90, 0.08);
+  box-shadow: 0 12px 30px rgba(30, 60, 90, 0.08);
+  overflow: visible;    /* IMPORTANT: allows image to stick out */
+}
+
+/* Text spacing (leave room for image) */
+.hero-text {
+  padding-right: 180px;
 }
 
 .hero h1 {
-  font-size: 3rem;
-  line-height: 1.1;
-  margin-bottom: 0.8rem;
-  color: #1f3552;
+  font-size: 2.8rem;
+  margin-bottom: 0.6rem;
 }
 
 .hero-tagline {
-  font-size: 1.25rem;
-  font-weight: 500;
+  font-size: 1.2rem;
   color: #4d6480;
-  margin-bottom: 1rem;
 }
 
-.hero-image img {
-  width: 100%;
-  max-width: 200px;
+/* Floating image */
+.hero-image-wrapper {
+  position: absolute;
+  top: -40px;     /* moves it upward */
+  right: -30px;   /* pushes it outside the card */
+}
+
+/* Image styling */
+.hero-image-wrapper img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
   border-radius: 50%;
-  display: block;
-  margin: 0 auto;
-  box-shadow: 0 14px 34px rgba(30, 60, 90, 0.18);
-}
 
-/* Buttons */
-.hero-buttons {
-  margin-top: 1.4rem;
+  border: 6px solid white;  /* clean "cut-out" look */
+  box-shadow: 0 12px 30px rgba(30, 60, 90, 0.25);
 }
-
 .button {
   display: inline-block;
   padding: 0.75rem 1.2rem;
