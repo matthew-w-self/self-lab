@@ -150,3 +150,24 @@ a:hover {
     justify-content: center;
   }
 }
+
+@media screen and (max-width: 800px) {
+  .hero {
+    padding: 2rem 1.5rem;
+    text-align: center;
+  }
+
+  .hero-text {
+    padding-right: 0;
+  }
+
+  .hero-image-wrapper {
+    position: static;
+    margin-top: 1.5rem;
+  }
+
+  .hero-image-wrapper img {
+    width: 140px;
+    height: 140px;
+  }
+}
