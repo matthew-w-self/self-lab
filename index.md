@@ -10,7 +10,7 @@ title: Home
   Neuroscientist studying visual processing, top-down feedback, and neural mechanisms of perception and memory.
 </p>
     <p>
-      Welcome to my website. Here you can find information about my research, current projects, publications, and ways to get in touch.
+      Here you can find information about my research, current projects, publications, and ways to get in touch.
     </p>
 
     <div class="hero-buttons">
