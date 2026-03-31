@@ -1,61 +1,31 @@
 ---
 layout: default
 title: Home
+permalink: /
 ---
 
-<div class="hero">
-  <div class="hero-text">
-    <h1>Matthew Self</h1>
-    <p class="hero-tagline">
-      Neuroscientist studying visual processing, top-down feedback, and neural mechanisms of perception and memory.
-    </p>
-  </div>
-
-  <div class="hero-image-wrapper">
-    <img src="{{ '/assets/Headshot_new2.jpg' | relative_url }}" alt="Photo of Matthew">
-  </div>
+<div class="card">
+  <h2>About the Lab</h2>
+  <p>
+    Welcome to the lab. We study the neural mechanisms of perception, cognition, and behaviour,
+    with a particular focus on visual processing, top-down influences, memory, and neural population dynamics.
+  </p>
+  <p>
+    Our work combines systems neuroscience, computational analysis, behaviour, and experimental methods
+    including electrophysiology, imaging, and circuit manipulation.
+  </p>
+  <p>
+    We aim to understand how the brain uses sensory input, internal models, and recurrent processing
+    to build robust representations of the world.
+  </p>
 </div>
 
-<section class="card-section" id="about">
-  <div class="card">
-    <h2>About</h2>
-    <p>
-      I am a researcher working on systems and cognitive neuroscience, with interests in visual cortical processing, top-down influences, and neural mechanisms of perception.
-    </p>
-  </div>
-</section>
-
-<section class="card-grid" id="research">
-  <div class="card">
-    <h2>Research</h2>
-    <p>
-      My lab studies how the brain processes visual information to guide behaviour and form memories.
-My research focusses on the interactions between higher visual areas, the thalamus, superior colliculus, the hippocampus and V1.
-I am particularly interested in the function of top-down connections which carry information about context, predictions and 3D structure back to the early visual cortex.
-I measure neural activity in patients who have electrodes implanted as part of their treatment.
-I also record and modulate neural activity in mice using Neuropixels electrodes, two-photon imaging and optogenetic techniques to study neural activity at multiple levels of processing.
-    </p>
-  </div>
-
-  <div class="card">
-    <h2>Projects</h2>
-    <p>
-      Current projects include visual occlusion paradigms, predictive processing, top-down feedback, and hippocampal influences on sensory cortex.
-    </p>
-  </div>
-
-  <div class="card">
-    <h2>Publications</h2>
-    <p>
-      A selection of publications and ongoing work will be listed here.
-    </p>
-  </div>
-</section>
-
-<section class="card-section" id="contact">
-  <div class="card">
-    <h2>Contact</h2>
-    <p>Email: matthew.self@glasgow.ac.uk</p>
-    <p>GitHub: <a href="https://github.com/matthew-w-self">matthew-w-self</a></p>
-  </div>
-</section>
+<div class="card">
+  <h2>Current Themes</h2>
+  <ul>
+    <li>Visual cortical processing and contextual modulation</li>
+    <li>Top-down feedback and predictive signals</li>
+    <li>Neural population coding and dynamics</li>
+    <li>Interactions between perception, memory, and behaviour</li>
+  </ul>
+</div>
