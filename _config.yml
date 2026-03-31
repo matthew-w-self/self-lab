@@ -1,5 +1,5 @@
-title: Self-Lab Website
-description: A personal website built with GitHub Pages and Jekyll
+title: My Lab
+description: Research in neuroscience, perception, and cognition
 theme: minima
 
 url: "https://matthew-w-self.github.io"
@@ -8,8 +8,9 @@ baseurl: "/self-lab"
 markdown: kramdown
 
 header_pages:
-  - publications.md
-  - projects.md
+  - index.md
+  - members.md
+  - research.md
   - contact.md
 
 plugins:
