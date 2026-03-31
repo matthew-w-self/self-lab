@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header-custom">
+      <div class="nav-container">
+        <a class="site-title-custom" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+        <nav class="site-nav-custom">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/members/' | relative_url }}">Members</a>
+          <a href="{{ '/research/' | relative_url }}">Research</a>
+          <a href="{{ '/contact/' | relative_url }}">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <section class="page-banner">
+      <img src="{{ '/assets/images/banner.jpg' | relative_url }}" alt="Lab banner image">
+      <div class="banner-overlay">
+        <h1>{{ page.title }}</h1>
+      </div>
+    </section>
+
+    <main class="page-content-custom">
+      <div class="content-wrapper">
+        {{ content }}
+      </div>
+    </main>
+  </body>
+</html>
