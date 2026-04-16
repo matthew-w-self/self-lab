@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Home
+title: Self Lab
 permalink: /
 ---
 
 <div class="card">
   <h2>About the Lab</h2>
   <p>
-    Welcome to the lab. We study the neural mechanisms of perception, cognition, and behaviour,
+    We study the neural mechanisms of perception, cognition, and behaviour,
     with a particular focus on visual processing, top-down influences, memory, and neural population dynamics.
   </p>
   <p>
