@@ -13,16 +13,18 @@ permalink: /members/
       Matthew leads the lab and studies visual processing, feedback signals, and neural mechanisms of perception and memory.
     </p>
   </div>
-  <!--
-  <div class="member-card">
-    <img src="{{ '/assets/images/member1.jpg' | relative_url }}" alt="Photo of Member 1">
-    <h3>Member Name</h3>
-    <p class="member-role">Postdoctoral Researcher</p>
-    <p>
-      Short description of research interests, expertise, and role in the lab.
-    </p>
-  </div>
+  
+ <div class="member-card">
+  <img src="{{ '/assets/images/placeholder.jpg' | relative_url }}" alt="Photo of Ross Hardaker">
+  <h3>Ross Hardaker</h3>
+  <p class="member-role">PhD Student</p>
+  <p>
+    Ross is a PhD student in the lab working on visual processing, contextual modulation and sensorimotor transformations in V1 and the superior colliculus.
+    Ross is a shared PhD student with Ana Gonzalez Rueda.
+  </p>
+</div>
 
+<!--
   <div class="member-card">
     <img src="{{ '/assets/images/member2.jpg' | relative_url }}" alt="Photo of Member 2">
     <h3>Member Name</h3>
