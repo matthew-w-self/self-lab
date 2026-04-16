@@ -8,12 +8,13 @@ permalink: /jobs/
   <h2>Open Position</h2>
 
   <p>
-    A postdoctoral position is currently available in the Self Lab.
+    A BBSRC funded 3 year postdoctoral position is currently available in the Self Lab!
   </p>
 
   <p>
     We are looking for a motivated researcher with interests in visual neuroscience,
     perception, cortical processing, and related experimental and analytical approaches.
+    You will be using Neuropixels recordings, two-photon imaging and advanced optogenetics to study the information content in feedback projections in the mouse visual system.
   </p>
 
   <p>
