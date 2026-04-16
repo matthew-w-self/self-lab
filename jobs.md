@@ -21,7 +21,7 @@ permalink: /jobs/
   </p>
 
   <p>
-    <a class="button" href="PASTE-YOUR-APPLICATION-URL-HERE" target="_blank" rel="noopener">
+    <a class="button" href="https://www.jobs.gla.ac.uk/job/research-assistant-slash-associate-5851459" target="_blank" rel="noopener">
       Apply here
     </a>
   </p>
