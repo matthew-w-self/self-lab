@@ -57,6 +57,21 @@ a:hover {
   color: #355c7d;
 }
 
+.button {
+  display: inline-block;
+  padding: 0.8rem 1.3rem;
+  border-radius: 999px;
+  background: #355c7d;
+  color: white !important;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.button:hover {
+  text-decoration: none;
+  opacity: 0.92;
+}
+
 /* Banner */
 .page-banner {
   position: relative;
