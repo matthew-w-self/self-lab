@@ -165,7 +165,23 @@ a:hover {
 
 /* Publication list */
 .publication-list li {
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.9rem;
+  line-height: 1.6;
+}
+
+.publication-list em {
+  font-style: italic;
+  color: #1f3552;
+}
+
+.publication-list a {
+  margin-left: 8px;
+  font-weight: 600;
+  color: #355c7d;
+}
+
+.publication-list a:hover {
+  text-decoration: underline;
 }
 
 /* Contact */
