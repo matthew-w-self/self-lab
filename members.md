@@ -20,9 +20,10 @@ permalink: /members/
   <p class="member-role">PhD Student</p>
   <p>
     Ross is a PhD student in the lab working on visual processing, contextual modulation and sensorimotor transformations in V1 and the superior colliculus.
-    Ross is a shared PhD student with Ana Gonzalez Rueda.
+    Ross is a shared PhD student with Dr.Ana Gonzalez Rueda.
   </p>
      <p>
+       See: 
     <a href="https://www.gla.ac.uk/schools/psychologyneuroscience/staff/anagonzlezrueda/" target="_blank" rel="noopener">
     </a>
   </p>
