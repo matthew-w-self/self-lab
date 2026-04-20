@@ -72,6 +72,7 @@ a:hover {
   opacity: 0.92;
 }
 
+
 /* Banner */
 .page-banner {
   position: relative;
@@ -162,6 +163,16 @@ a:hover {
   font-weight: 600;
   color: #5a7191;
   margin-bottom: 0.8rem;
+}
+
+.member-links {
+  margin-top: 0.6rem;
+}
+
+.member-links a {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #355c7d;
 }
 
 /* Research sections */
