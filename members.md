@@ -24,7 +24,7 @@ permalink: /members/
   </p>
   <p class="member-links">
   <a href="https://www.gla.ac.uk/schools/psychologyneuroscience/staff/anagonzlezrueda/" target="_blank" rel="noopener">
-    Co-supervisor lab
+    Ana's lab
   </a>
 </p>
 </div>
