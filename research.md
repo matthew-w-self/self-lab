@@ -207,13 +207,4 @@ permalink: /research/
     </li>
   </ul>
 
-  <h3>2005</h3>
-  <ul class="publication-list">
-    <li>
-      Self MW, Zeki S (2005).
-      <em>The integration of colour and motion by the human visual brain.</em>
-      Cerebral Cortex.
-    </li>
-  </ul>
-
 </div>
