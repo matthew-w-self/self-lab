@@ -15,7 +15,7 @@ permalink: /members/
   </div>
   
  <div class="member-card">
-  <img src="{{ '/assets/images/placeholder.jpg' | relative_url }}" alt="Photo of Ross Hardaker">
+  <img src="{{ '/assets/images/ross.jpg' | relative_url }}" alt="Photo of Ross Hardaker">
   <h3>Ross Hardaker</h3>
   <p class="member-role">PhD Student</p>
   <p>
